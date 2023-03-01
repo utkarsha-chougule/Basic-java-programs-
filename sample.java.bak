@@ -1,0 +1,26 @@
+class Sample
+static int a;
+static byte b;
+static float c;
+static double d;
+static long e;
+static boolean f;
+static short g;
+static char h;
+
+{
+public static void main(String[]args);
+{
+
+System.out.println("the value of byte"+a);
+System.out.println("the value of int"+b);
+System.out.println("the value of float"+c);
+System.out.println("the value of double"+d);
+System.out.println("the value of long"+e);
+System.out.println("the value of boolean"+f);
+System.out.println("the value of short"+g);
+System.out.println("the value of char"+h);
+
+}
+}
+

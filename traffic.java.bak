@@ -1,0 +1,17 @@
+class traffic
+{
+public static void main(String[]args)
+{
+char color='r';
+switch (colour)
+{
+case 'r':System.out.pritln("Red Means STOP");
+         break;
+case 'g':System.out.pritln("Green Means Go");
+         break;
+case 'y':System.out.pritln("Yellow Means Go Slow");
+         break;
+default:System.out.pritln("Try again");
+}
+}
+}

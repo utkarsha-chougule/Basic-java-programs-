@@ -1,0 +1,10 @@
+class values
+{
+ public static void main(String[]args)
+{
+byte a=100;
+System.out.println(a);
+byte b=127;
+System.out.println(b);
+}
+}

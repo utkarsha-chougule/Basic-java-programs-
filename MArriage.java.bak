@@ -1,0 +1,17 @@
+class Marriage
+{
+public static void main(String[] args)
+	{
+	    int age=15;
+		char gender= 'm';
+		if (gender='m' && age >=21)
+		{
+			System.out.println("You are eligile for marrige");
+		}
+		else
+		{
+
+			System.out.println("You are not eligile for marrige");
+		}
+	}
+}

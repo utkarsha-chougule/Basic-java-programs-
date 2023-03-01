@@ -1,0 +1,10 @@
+class Democh
+{
+  public static void main(Strig[]args)
+  {
+   char a='x';
+   System.out.println(a);
+   char c=97;
+   System.out.println(c);
+  }
+}

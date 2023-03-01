@@ -1,0 +1,24 @@
+class Prime
+{
+public static void main(String[]args)
+{
+int i,j;
+System.out.println("The Prime no between 0 to 100 Are");
+for(i=0;i<=1000;i++)
+	{
+	int count = 0;
+	for(j=1;j<=i;j++)
+		{
+		if(i%j==0)
+			{
+				count++;
+			}
+		}
+		if(count ==2)
+		{
+		System.out.println("   "+i);
+		}
+	}
+}
+}
+
